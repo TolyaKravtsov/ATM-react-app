@@ -1,11 +1,12 @@
 import React from "react";
 import registrationStylesheet from "./registration.module.css"
+import {NavLink} from "react-router-dom";
 
 
 const Registration = (props) => {
     return (
-        <div className={registrationStylesheet.style}>
-          <button>Sign in/Sign up</button>
+        <div className={registrationStylesheet.login}>
+            <NavLink to="/login" className={registrationStylesheet.decoration}> Sign in/Sign up</NavLink>
         </div>
     )
 };

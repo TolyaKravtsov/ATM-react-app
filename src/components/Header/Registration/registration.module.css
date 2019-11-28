@@ -4,7 +4,12 @@
 
 }
 
-button{
-    padding: 10px;
+.login{
+    padding-top: 40px;
+    padding-right: 30px;
     float: right;
+}
+.decoration{
+    text-decoration: none;
+    color: black;
 }

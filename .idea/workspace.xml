@@ -2,24 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="72b19707-fcf1-41b7-b9c0-022f2823ad24" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/tolya.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/debug.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/alfa-messi-1200.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Footer/Footer.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Footer/footer.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Header/Header.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Header/Logo/Logo.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Header/Logo/logo.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Header/Registration/Registation.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Header/Registration/registration.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Header/header.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Profile/Profile.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Profile/profile.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Login/Login.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Login/LoginContainer.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Login/ReduxLoginForm.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Login/login.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/reducer/loginReducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/store.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/debug.log" beforeDir="false" afterPath="$PROJECT_DIR$/debug.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Footer/footer.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Footer/footer.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Header/Logo/Logo.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/Logo/Logo.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Header/Logo/logo.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/Logo/logo.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Header/Registration/Registation.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/Registration/Registation.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Header/Registration/registration.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/Registration/registration.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,8 +29,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -46,7 +45,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components/Header/Registration" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../reactproject" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -104,7 +103,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1574920267946</updated>
-      <workItem from="1574920274688" duration="5254000" />
+      <workItem from="1574920274688" duration="24778000" />
     </task>
     <servers />
   </component>
