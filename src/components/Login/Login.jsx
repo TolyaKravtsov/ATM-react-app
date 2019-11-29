@@ -7,7 +7,6 @@ const Login = (props) => {
     const SaveInfo = (formData) => {
         props.addInfo(formData);
     };
-
     return (
         <ReduxLoginForm onSubmit={SaveInfo}/>
     )

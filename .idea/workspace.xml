@@ -2,23 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="72b19707-fcf1-41b7-b9c0-022f2823ad24" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/Login/Login.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Login/LoginContainer.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Login/ReduxLoginForm.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Login/login.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/redux/reducer/loginReducer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/redux/store.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/aboutUser/AboutUser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/aboutUser/AboutUserContainer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/aboutUser/AboutUserReduxForm.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/aboutUser/aboutUser.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/FormsControl/FormsControl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/FormsControl/formsControl.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/validators/Validators.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/tolya.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/tolya.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/debug.log" beforeDir="false" afterPath="$PROJECT_DIR$/debug.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Footer/footer.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Footer/footer.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Header/Logo/Logo.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/Logo/Logo.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Header/Logo/logo.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/Logo/logo.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Header/Registration/Registation.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/Registration/Registation.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Header/Registration/registration.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/Registration/registration.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Login/Login.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Login/Login.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Login/ReduxLoginForm.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Login/ReduxLoginForm.jsx" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -48,15 +45,19 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../reactproject" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="settings.javascript.linters.eslint" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -103,7 +104,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1574920267946</updated>
-      <workItem from="1574920274688" duration="24778000" />
+      <workItem from="1574920274688" duration="40852000" />
     </task>
     <servers />
   </component>
